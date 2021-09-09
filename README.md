@@ -21,3 +21,4 @@ my workspace for "The Go Programming Language (Alan A. A. Donovan, Brian W. Kern
 
 - p.115 ex3-2, ex3-3, ex3-4
 - p.118 ex3-5, ex3-6, ex3-7, ex3-8, ex3-9
+- p.137 ex3-12
