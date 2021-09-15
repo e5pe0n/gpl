@@ -26,3 +26,8 @@ my workspace for "The Go Programming Language (Alan A. A. Donovan, Brian W. Kern
 ## Chapter 4
 
 - p.153 ex4-2
+- p.168 ex4-7
+  - use map; key is the first byte of an encoded character, value is the num of byte
+  - procedure
+    - 1. reverse the entire slice
+    - 2. read the slice backword and reverse each partial slice whose length is determined the map above by reading the first byte
