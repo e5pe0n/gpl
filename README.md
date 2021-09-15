@@ -31,3 +31,4 @@ my workspace for "The Go Programming Language (Alan A. A. Donovan, Brian W. Kern
   - procedure
     - 1. reverse the entire slice
     - 2. read the slice backword and reverse each partial slice whose length is determined the map above by reading the first byte
+- p.179 ex4-9
