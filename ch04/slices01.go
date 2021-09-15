@@ -11,4 +11,11 @@ func main() {
 	summer := months[6:9]
 	fmt.Println(Q2)     // [April May June]
 	fmt.Println(summer) // [June July August]
+
+	var runes []rune
+	for _, r := range "Hello, 世界" {
+		runes = append(runes, r)
+	}
+	fmt.Printf("%q\n", runes) // ['H' 'e' 'l' 'l' 'o' ',' ' ' '世' '界']
+	fmt.Printf("%x\n", runes) // [48 65 6c 6c 6f 2c 20 4e16 754c]
 }
