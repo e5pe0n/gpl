@@ -10,3 +10,5 @@ workspace for "The Go Programming Language (Alan A. A. Donovan, Brian W. Kernigh
 
 - ex01-03
 - ex01-04
+- ex01-07
+- ex01-08
